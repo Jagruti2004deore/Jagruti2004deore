@@ -1,11 +1,15 @@
-# 👋 Hey there, I'm Jagruti Deore!
+<h1 align="center">👋 Hey there, I'm Jagruti Deore!</h1>
 
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Engineer | Full-Stack Developer  
-📍 Nashik, India  
+<h3 align="center">
+🎓 Computer Science Engineering Student <br/>
+💻 Aspiring Software Engineer | Full-Stack Developer <br/>
+📍 Nashik, India
+</h3>
 
-I love turning **ideas into working software** — from clean UIs to secure backend systems.  
-Currently building real-world projects using **Java, Spring Boot, Node.js, and React** 🚀
+<p align="center">
+I love turning ideas into working software — from clean UIs to secure backend systems.<br/>
+Currently building real-world projects using <b>Java, Spring Boot, Node.js, and React</b> 🚀
+</p>
 
 ---
 
