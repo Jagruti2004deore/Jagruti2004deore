@@ -11,16 +11,15 @@ I love turning ideas into working software — from clean UIs to secure backend 
 Currently building real-world projects using <b>Java, Spring Boot, Node.js, and React</b> 🚀
 </p>
 
----
+--- 
 
 ## 🌟 A Little About Me
 
-- 🧠 I enjoy solving problems and understanding *how things work behind the scenes*
-- 🔐 I like building **secure systems** (JWT, authentication, role-based access)
-- 🛠️ Big fan of backend logic, APIs, and structured code
-- 🌱 Always learning, always building
+- 🧠 I enjoy building end-to-end software solutions, from clean user interfaces to scalable backend systems*
+- 🔐 I focus on secure, well-structured applications using modern development practices
+- 🌱 Always learning and building real-world software.
 
-🎯 **Goal:** Start my career as a **Software Engineer**, grow through real-world systems, and write code that actually matters.
+🎯 **Goal:** Start my career as a **Software Engineer** and contribute to impactful applications.
 
 ---
 
