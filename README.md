@@ -46,7 +46,7 @@ Git, GitHub, Postman, VS Code
 
 ---
 
-## 🚀 Featured Projects (a.k.a. My Pride 😄)
+## 🚀 Projects That Define My Work
 
 ### 🏥 Hospital Appointment Management System
 **Tech:** React.js, Tailwind CSS, Spring Boot, Spring Security (JWT), PostgreSQL  
