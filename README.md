@@ -16,7 +16,7 @@
 ## 🙋 About me
 
 - 🎓 B.Tech Computer Science Engineering (2026) · Sandip University, Nashik
-- 💼 Software Developer Intern @ **CVFrameIQ** *(Mar 2026 – Present)*
+- 💼 Software Developer Intern @ **CVFrameIQ** *(Mar 2026 – May 2026)*
 - 🏢 Previously @ **Innotronix Labs, Pune** — MERN stack, MinIO, Agile *(Sep–Nov 2025)*
 - 🔭 Building real-time collaboration tools, secure backend systems, and full-stack web apps
 - 📍 Based in Pune · Open to full-time SDE / Full Stack Developer roles
