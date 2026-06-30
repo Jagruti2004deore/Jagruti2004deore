@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Jagruti Deore 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer &nbsp;·&nbsp; Spring Boot + React &nbsp;·&nbsp; WebRTC &nbsp;·&nbsp; Pune, India</b>
+  <b>Full Stack Developer &nbsp;·&nbsp; Spring Boot + React &nbsp;·&nbsp; AI-Powered Apps &nbsp;·&nbsp; Pune, India</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 - 🎓 B.Tech Computer Science Engineering (2026) · Sandip University, Nashik
 - 💼 Software Developer Intern @ **CVFrameIQ** *(Mar 2026 – May 2026)*
 - 🏢 Previously @ **Innotronix Labs, Pune** — MERN stack, MinIO, Agile *(Sep–Nov 2025)*
-- 🔭 Building real-time collaboration tools, secure backend systems, and full-stack web apps
+- 🔭 Building AI-powered developer tools, real-time collaboration platforms, and secure full-stack systems
+- 🤖 Currently exploring Spring AI, RAG, and LLM-powered applications
 - 📍 Based in Pune · Open to full-time SDE / Full Stack Developer roles
 - 📬 **deorejagruti284@gmail.com** · +91 7875846931
 
@@ -41,13 +42,21 @@
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & LLM**
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
 
 **Real-time & Infra**
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,6 +66,16 @@
 ---
 
 ## 🚀 Featured projects
+
+### 🤖 [RepoPilot AI](https://github.com/Jagruti2004deore/RepoPilot-AI) — AI-powered GitHub repository analysis platform
+> Spring Boot · Spring AI · Ollama · React.js · TypeScript · PostgreSQL · JWT · GitHub API
+
+- Import any public GitHub repo and get AI-generated **architecture review, security analysis, and code quality insights**
+- AI-powered repository Q&A and portfolio guidance using **Spring AI + Ollama (local LLM)** with prompt engineering
+- Layered architecture (Controller → Service → Repository → Database) with JWT authentication + Spring Security
+- 10+ REST APIs · GitHub API integration · deployed on Vercel (frontend) + Render (backend)
+
+---
 
 ### 🔗 [CollabApp](https://github.com/Jagruti2004deore/Collab_App) — Real-time interview collaboration platform
 > Spring Boot · React.js · WebSocket/STOMP · WebRTC · PostgreSQL · JWT · Docker · Vercel
@@ -75,14 +94,6 @@
 
 ---
 
-### 🏨 [BookNStay](https://github.com/Jagruti2004deore/StayUp-BookNStay-website-) — Hotel booking platform
-> React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary
-
-- MERN stack · user + admin dashboards · Cloudinary image management
-- **100+ test users** · JWT-secured APIs · 20% page load improvement
-
----
-
 ## 📊 GitHub stats
 
 <p align="center">
@@ -94,7 +105,7 @@
 
 ## 💼 Work experience
 
-**Software Developer Intern · CVFrameIQ** &nbsp; *(Mar 2026 – Present)*
+**Software Developer Intern · CVFrameIQ** &nbsp; *(Mar 2026 – May 2026)*
 - Architected full-stack app with Spring Boot, React.js, Python · 10+ REST endpoints · 5+ core modules
 - Authored end-to-end docs · executed 80+ test cases · zero critical bugs at release
 
